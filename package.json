@@ -1,0 +1,23 @@
+{
+  "name": "Node-API",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node spec/ --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciawalsh/Node-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciawalsh/Node-API/issues"
+  },
+  "homepage": "https://github.com/ciawalsh/Node-API",
+  "devDependencies": {
+    "jasmine": "^2.2.0",
+    "node": "0.0.0"
+  }
+}

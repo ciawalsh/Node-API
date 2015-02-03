@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/opt/boxen/nodenv/versions/v0.10.31/bin/node',
+1 verbose cli   '/opt/boxen/nodenv/versions/v0.10.31/bin/npm',
+1 verbose cli   'test',
+1 verbose cli   'spec' ]
+2 info using npm@1.4.23
+3 info using node@v0.10.31
+4 error Error: ENOENT, open '/Users/Charles-Walsh/Desktop/Coding/Projects/Node-API/node_modules/spec/package.json'
+5 error If you need help, you may report this *entire* log,
+5 error including the npm and node versions, at:
+5 error     <http://github.com/npm/npm/issues>
+6 error System Darwin 14.1.0
+7 error command "/opt/boxen/nodenv/versions/v0.10.31/bin/node" "/opt/boxen/nodenv/versions/v0.10.31/bin/npm" "test" "spec"
+8 error cwd /Users/Charles-Walsh/Desktop/Coding/Projects/Node-API
+9 error node -v v0.10.31
+10 error npm -v 1.4.23
+11 error path /Users/Charles-Walsh/Desktop/Coding/Projects/Node-API/node_modules/spec/package.json
+12 error code ENOENT
+13 error errno 34
+14 verbose exit [ 34, true ]

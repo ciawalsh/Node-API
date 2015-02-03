@@ -1,3 +1,5 @@
+var Game = require('../js/game');
+
 describe('Gutter game', function() {
 
 	var game = new Game();

@@ -16,4 +16,4 @@ The aim of this week was to learn to build a responsive application using JavaSc
 
 ### Paired with: 
 
-- [Huy Le](https://github.com/tekhuy)
+- [Keiran Goodacre](https://github.com/kierangoodacre)

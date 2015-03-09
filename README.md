@@ -13,3 +13,7 @@ The aim of this week was to learn to build a responsive application using JavaSc
 - JQuery
 
 ##### If i had time, i would add AJAX to this project to make this app dynamic.
+
+### Paired with: 
+
+- [Huy Le](https://github.com/tekhuy)
